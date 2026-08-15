@@ -48,25 +48,23 @@ fun_fact: 写代码前先喝杯奶茶，bug 概率 -50%（玄学）
 
 <div align="center">
 
-**🖥️ Languages**
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,electron,git,github,vscode,linux,docker,md" alt="Tech Stack Icons"/>
+</a>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-**🚀 Frameworks & Tools**
+<br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 🐍 贪吃蛇吃贡献图 Snake Eating Contributions
 
-**🤖 AI & Cloud**
+<div align="center">
 
-![OpenAI](https://img.shields.io/badge/-AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WeiLiu03/WeiLiu03/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WeiLiu03/WeiLiu03/output/snake.svg"/>
+  <img alt="GitHub snake" src="https://raw.githubusercontent.com/WeiLiu03/WeiLiu03/output/snake.svg"/>
+</picture>
 
 </div>
 
