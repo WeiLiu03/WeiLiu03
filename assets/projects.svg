@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="190" rx="16" fill="url(#pbg)"/>
+  <g>
+    <rect x="25" y="25" width="410" height="140" rx="12" fill="#161b22" stroke="#f7971e" stroke-width="1.5"/>
+    <text x="50" y="65" font-family="Consolas,monospace" font-size="20" font-weight="700" fill="#f7971e">🖥️ deepseek-harness-desktop</text>
+    <text x="50" y="98" font-family="Segoe UI,Arial" font-size="15" fill="#9da5b0">DeepSeek Harness 桌面客户端</text>
+    <circle cx="56" cy="130" r="6" fill="#f1e05a"/>
+    <text x="70" y="135" font-family="Segoe UI,Arial" font-size="14" fill="#e6e6e6">JavaScript</text>
+  </g>
+  <g>
+    <rect x="465" y="25" width="410" height="140" rx="12" fill="#161b22" stroke="#ff6b9d" stroke-width="1.5"/>
+    <text x="490" y="65" font-family="Consolas,monospace" font-size="20" font-weight="700" fill="#ff6b9d">🌤️ qjnu-daylight</text>
+    <text x="490" y="98" font-family="Segoe UI,Arial" font-size="15" fill="#9da5b0">校园日光项目</text>
+    <circle cx="496" cy="130" r="6" fill="#e34c26"/>
+    <text x="510" y="135" font-family="Segoe UI,Arial" font-size="14" fill="#e6e6e6">HTML / CSS</text>
+  </g>
+</svg>
