@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,29&height=180&section=header&text=Hi%20there%20👋%20I'm%20WeiLiu&fontSize=42&animation=fadeIn&fontAlignY=38&desc=计算机科学与技术%20·%20Code%20with%20Passion%20🚀&descSize=18&descAlignY=62" width="100%"/>
 
 <a href="https://github.com/WeiLiu03">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=400&color=F7971E&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=🎓+计算机科学与技术专业;💻+Full-Stack+Developer+in+Training;🤖+AI+Agent+Explorer;✨+Life+is+short%2C+I+use+Python+%28and+JS%29" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/WeiLiu03/WeiLiu03/main/assets/typing.svg" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -74,7 +74,7 @@ fun_fact: 写代码前先喝杯奶茶，bug 概率 -50%（玄学）
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=WeiLiu03&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophy"/>
+<img src="https://raw.githubusercontent.com/WeiLiu03/WeiLiu03/main/assets/trophies.svg" width="100%" alt="Trophy"/>
 
 </div>
 
