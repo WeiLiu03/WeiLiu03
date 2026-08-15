@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="150" viewBox="0 0 640 150">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f7971e"/>
+      <stop offset="1" stop-color="#ff6b9d"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font:600 24px 'Fira Code','Cascadia Code',Consolas,monospace;fill:url(#g);}
+    .line{clip-path:inset(-6px 100% -6px 0);}
+    #l1{animation:a1 12s linear infinite;}
+    #l2{animation:a2 12s linear infinite;}
+    #l3{animation:a3 12s linear infinite;}
+    @keyframes a1{0%{clip-path:inset(-6px 100% -6px 0)}8%{clip-path:inset(-6px 0 -6px 0)}90%{clip-path:inset(-6px 0 -6px 0);opacity:1}96%,100%{clip-path:inset(-6px 0 -6px 0);opacity:0}}
+    @keyframes a2{0%,14%{clip-path:inset(-6px 100% -6px 0)}26%{clip-path:inset(-6px 0 -6px 0)}90%{clip-path:inset(-6px 0 -6px 0);opacity:1}96%,100%{clip-path:inset(-6px 0 -6px 0);opacity:0}}
+    @keyframes a3{0%,32%{clip-path:inset(-6px 100% -6px 0)}46%{clip-path:inset(-6px 0 -6px 0)}90%{clip-path:inset(-6px 0 -6px 0);opacity:1}96%,100%{clip-path:inset(-6px 0 -6px 0);opacity:0}}
+  </style>
+  <g id="l1" class="line"><text x="20" y="45">🎓 计算机科学与技术专业</text></g>
+  <g id="l2" class="line"><text x="20" y="85">💻 Full-Stack Developer in Training</text></g>
+  <g id="l3" class="line"><text x="20" y="125">🤖 AI Agent Explorer · Code with Passion</text></g>
+</svg>
