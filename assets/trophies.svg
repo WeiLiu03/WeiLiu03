@@ -1,19 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="130" viewBox="0 0 880 130">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ff6b9d" stop-opacity="0.15"/>
-      <stop offset="1" stop-color="#f7971e" stop-opacity="0.15"/>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="tcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff6b9d" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#f7971e" stop-opacity="0.18"/>
     </linearGradient>
   </defs>
+  <rect width="900" height="150" rx="16" fill="url(#tbg)"/>
   <style>
-    .card{fill:url(#bg);stroke:#ff6b9d;stroke-width:1;rx:12;}
-    .emo{font-size:34px;}
-    .lab{font:600 14px 'Segoe UI',Arial,sans-serif;fill:#e6e6e6;}
+    .card{fill:url(#tcard);stroke:#ff6b9d;stroke-width:1;}
+    .emo{font-size:32px;}
+    .lab{font:600 13px 'Segoe UI',Arial,sans-serif;fill:#e6e6e6;}
   </style>
-  <g><rect class="card" x="10" y="15" width="130" height="100" rx="12"/><text class="emo" x="52" y="62">⭐</text><text class="lab" x="40" y="95">Starstruck</text></g>
-  <g><rect class="card" x="155" y="15" width="130" height="100" rx="12"/><text class="emo" x="197" y="62">🦈</text><text class="lab" x="185" y="95">Pull Shark</text></g>
-  <g><rect class="card" x="300" y="15" width="130" height="100" rx="12"/><text class="emo" x="342" y="62">🚀</text><text class="lab" x="332" y="95">Quickdraw</text></g>
-  <g><rect class="card" x="445" y="15" width="130" height="100" rx="12"/><text class="emo" x="487" y="62">🧠</text><text class="lab" x="477" y="95">Galaxy Brain</text></g>
-  <g><rect class="card" x="590" y="15" width="130" height="100" rx="12"/><text class="emo" x="632" y="62">🏅</text><text class="lab" x="625" y="95">Achiever</text></g>
-  <g><rect class="card" x="735" y="15" width="130" height="100" rx="12"/><text class="emo" x="777" y="62">🔥</text><text class="lab" x="765" y="95">Streaker</text></g>
+  <g><rect class="card" x="15" y="25" width="135" height="100" rx="12"/><text class="emo" x="62" y="70">⭐</text><text class="lab" x="45" y="105">Starstruck</text></g>
+  <g><rect class="card" x="162" y="25" width="135" height="100" rx="12"/><text class="emo" x="209" y="70">🦈</text><text class="lab" x="192" y="105">Pull Shark</text></g>
+  <g><rect class="card" x="309" y="25" width="135" height="100" rx="12"/><text class="emo" x="356" y="70">🚀</text><text class="lab" x="339" y="105">Quickdraw</text></g>
+  <g><rect class="card" x="456" y="25" width="135" height="100" rx="12"/><text class="emo" x="503" y="70">🧠</text><text class="lab" x="478" y="105">Galaxy Brain</text></g>
+  <g><rect class="card" x="603" y="25" width="135" height="100" rx="12"/><text class="emo" x="650" y="70">🏅</text><text class="lab" x="636" y="105">Achiever</text></g>
+  <g><rect class="card" x="750" y="25" width="135" height="100" rx="12"/><text class="emo" x="797" y="70">🔥</text><text class="lab" x="783" y="105">Streaker</text></g>
 </svg>
